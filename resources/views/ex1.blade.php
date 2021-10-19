@@ -12,5 +12,13 @@
 		<input type="file" name="file[]" multiple >
 		<input type="submit" name="submit" value="submit">
 	</form>
+	<table>
+		<tr>
+			<td>hii</td>
+			<td>dfsdf</td>
+			<td>sdfsd</td>
+			<td>sdfsd</td>
+		</tr>
+	</table>
 </body>
 </html>
